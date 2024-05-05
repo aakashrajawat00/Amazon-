@@ -49,6 +49,7 @@ const Search = () => {
           <option>Computers</option>
           <option>Home</option>
           <option>Mobiles</option>
+          <option>Books</option>
         </select>
         <input
           className="flex grow items-center h-[100%] rounded-l text-black"
