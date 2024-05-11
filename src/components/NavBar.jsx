@@ -57,7 +57,6 @@ const NavBar = () => {
         <div>Registry</div>
         <div>Gift Cards</div>
         <div>Sell</div>
-        <div>Buy</div>
       </div>
     </header>
   );
