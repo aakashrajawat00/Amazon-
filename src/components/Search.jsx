@@ -45,12 +45,10 @@ const Search = () => {
           <option>All</option>
           <option>Deals</option>
           <option>Amazon</option>
-          <option>Fashion</option>
           <option>Computers</option>
           <option>Home</option>
           <option>Mobiles</option>
           <option>Books</option>
-          <option>Perfumes</option>
         </select>
         <input
           className="flex grow items-center h-[100%] rounded-l text-black"
