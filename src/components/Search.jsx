@@ -50,6 +50,7 @@ const Search = () => {
           <option>Home</option>
           <option>Mobiles</option>
           <option>Books</option>
+          <option>Perfumes</option>
         </select>
         <input
           className="flex grow items-center h-[100%] rounded-l text-black"
