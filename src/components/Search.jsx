@@ -47,6 +47,7 @@ const Search = () => {
           <option>Amazon</option>
           <option>Fashion</option>
           <option>Computers</option>
+          <option>Laptops</option>
           <option>Home</option>
           <option>Mobiles</option>
           <option>Perfumes</option>
